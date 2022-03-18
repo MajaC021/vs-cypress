@@ -1,0 +1,10 @@
+{
+    "baseUrl": "https://cypress.vivifyscrum-stage.com",
+    "env": {
+        "testUserEmail": "test1@gmail.com",
+        "testUserPass": "test123",
+        "titleBoard": "testTitle"
+    },
+    "defaultCommandTimeout": 10000,
+    "watchForFileChanges": false
+}
